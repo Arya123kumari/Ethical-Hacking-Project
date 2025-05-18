@@ -104,19 +104,19 @@ nmap -v -O 192.168.1.10
 
 **Command Used:**
 ```bash
-adduser anuj
+adduser arya
 ```
 
 **Results:**
 
 In `/etc/passwd`:
 ```
-anuj:x:1001:1001:/home/anuj:/bin/bash
+arya:x:1001:1001:/home/anuj:/bin/bash
 ```
 
 In `/etc/shadow`:
 ```
-anuj:$1$8nWuasXV$pk6ZABfqT9NoHv1pPX8Rj.
+arya:$1$8nWuasXV$pk6ZABfqT9NoHv1pPX8Rj.
 ```
 
 ---
