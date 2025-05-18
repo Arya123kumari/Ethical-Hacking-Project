@@ -20,7 +20,7 @@ It covers a complete ethical hacking lifecycle: scanning, enumeration, exploitat
 
 ## 📂 Project Contents
 
-- 📄 `CEH_Project_Anuj.pdf` — Full report with screenshots and command outputs  
+- 📄 `CEH_Project_Arya.pdf` — Full report with screenshots and command outputs  
 - 🖼️ `Screenshots/` — Real-time evidence of network attacks and defenses  
 
 ---
@@ -111,7 +111,7 @@ adduser arya
 
 In `/etc/passwd`:
 ```
-arya:x:1001:1001:/home/anuj:/bin/bash
+arya:x:1001:1001:/home/arya:/bin/bash
 ```
 
 In `/etc/shadow`:
